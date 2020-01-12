@@ -1,0 +1,23 @@
+{
+  "name": "parallelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matgua/parallelize.git"
+  },
+  "keywords": [],
+  "author": "Matteo Guarda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matgua/parallelize/issues"
+  },
+  "homepage": "https://github.com/matgua/parallelize#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}

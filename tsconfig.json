@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "lib": [
+            "ESNext",
+            "DOM"
+        ],
+        "downlevelIteration": true,
+        "strict": true
+    }
+}
