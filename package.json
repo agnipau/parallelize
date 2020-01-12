@@ -16,7 +16,7 @@
         "url": "https://github.com/matgua/parallelize/issues"
     },
     "files": [
-        "dist/*"
+        "lib/*"
     ],
     "homepage": "https://github.com/matgua/parallelize#readme",
     "devDependencies": {
