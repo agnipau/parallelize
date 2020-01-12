@@ -5,6 +5,7 @@
             "ESNext",
             "DOM"
         ],
+        "declaration": true,
         "downlevelIteration": true,
         "strict": true
     }
