@@ -15,5 +15,11 @@
     "exclude": [
         "node_modules",
         "**/__tests__/*"
-    ]
+    ],
+    "typedocOptions": {
+        "inputFiles": [
+            "./src"
+        ],
+        "out": "docs"
+    }
 }
