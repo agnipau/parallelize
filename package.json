@@ -20,7 +20,8 @@
     ],
     "homepage": "https://github.com/matgua/parallelize#readme",
     "devDependencies": {
-        "typedoc": "^0.16.2",
-        "typescript": "^3.7.4"
+        "minimist": ">=0.2.1",
+        "typedoc": "^0.16.11",
+        "typescript": "^3.8.3"
     }
 }
